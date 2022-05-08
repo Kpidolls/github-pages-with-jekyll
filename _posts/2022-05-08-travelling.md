@@ -1,3 +1,9 @@
+---
+title: "Planning a trip"
+date: 2022-05-08
+---
+
+
 How to start planning a trip
 
 -Set a budget
@@ -6,3 +12,4 @@ How to start planning a trip
 -restrictions/special entry requirements
 -average ticket costs
 -average accomondation costs
+-pick a your destination
